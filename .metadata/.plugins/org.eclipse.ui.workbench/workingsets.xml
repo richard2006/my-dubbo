@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1450409848397_1" label="dubbo-parent" name="dubbo-parent">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-demo-consumer" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-demo-provider" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-demo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/dubbo-demo-api" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1450172741301_0" label="Window Working Set" name="Aggregate for window 1450172741301"/>
+</workingSetManager>
