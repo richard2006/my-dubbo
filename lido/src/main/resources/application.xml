@@ -1,0 +1,10 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:lido="http://code.alibabatech.com/lido/schema/people"
+	xsi:schemaLocation="  
+http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-2.5.xsd  
+http://code.alibabatech.com/lido/schema/people http://code.alibabatech.com/lido/schema/people.xsd">
+	
+	<lido:people id="person" name="richard" age="30" />
+	
+	
+</beans> 

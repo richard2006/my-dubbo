@@ -1,2 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.net.URL"/>
+<fullyQualifiedTypeName name="org.jboss.netty.channel.Channel"/>
+<fullyQualifiedTypeName name="com.li.dubbo.lido.spi.IOperation"/>
+<fullyQualifiedTypeName name="java.util.ServiceLoader"/>
+<fullyQualifiedTypeName name="org.apache.thrift.TProcessor"/>
+<fullyQualifiedTypeName name="com.li.dubbo.lido.thrift.service.HelloWorldService.Processor"/>
+<fullyQualifiedTypeName name="com.li.dubbo.lido.thrift.service.HelloWorldService.Iface"/>
+<fullyQualifiedTypeName name="com.li.dubbo.lido.thrift.service.HelloServiceImpl"/>
+<fullyQualifiedTypeName name="org.apache.thrift.transport.TServerSocket"/>
+<fullyQualifiedTypeName name="org.apache.thrift.server.TServer"/>
+<fullyQualifiedTypeName name="org.apache.thrift.server.TSimpleServer"/>
+<fullyQualifiedTypeName name="org.apache.thrift.transport.TTransport"/>
+<fullyQualifiedTypeName name="org.apache.thrift.transport.TSocket"/>
+<fullyQualifiedTypeName name="org.apache.thrift.protocol.TProtocol"/>
+<fullyQualifiedTypeName name="org.apache.thrift.protocol.TBinaryProtocol"/>
+<fullyQualifiedTypeName name="com.li.dubbo.lido.thrift.service.HelloWorldService"/>
+<fullyQualifiedTypeName name="org.apache.thrift.transport.TTransportException"/>
+<fullyQualifiedTypeName name="org.apache.thrift.TException"/>
+<fullyQualifiedTypeName name="org.apache.thrift.server.TThreadPoolServer"/>
+<fullyQualifiedTypeName name="org.apache.thrift.server.TThreadPoolServer.Args"/>
+<fullyQualifiedTypeName name="org.apache.thrift.server.TNonblockingServer"/>
+<fullyQualifiedTypeName name="org.apache.thrift.transport.TNonblockingServerSocket"/>
+<fullyQualifiedTypeName name="org.apache.thrift.transport.TFramedTransport"/>
+</qualifiedTypeNameHistroy>

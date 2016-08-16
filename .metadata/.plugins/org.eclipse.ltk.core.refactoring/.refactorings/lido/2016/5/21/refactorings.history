@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;lido/src/main/resources/META-INF/services/co.solinx.demo.api.IOperation&apos; to &apos;com.li.dubbo.lido.spi.IOperation&apos;" description="Rename resource &apos;co.solinx.demo.api.IOperation&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/META-INF/services/co.solinx.demo.api.IOperation" name="com.li.dubbo.lido.spi.IOperation" stamp="1463476502302" updateReferences="true"/>
+</session>

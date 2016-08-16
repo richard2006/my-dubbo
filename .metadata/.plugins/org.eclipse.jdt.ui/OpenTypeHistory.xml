@@ -1,2 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy/>
+<typeInfoHistroy>
+<typeInfo handle="=dubbo-config-api/src\/main\/java&lt;com.alibaba.dubbo.config{ServiceConfig.java[ServiceConfig" modifiers="1" timestamp="1414591956000"/>
+<typeInfo handle="=dubbo-admin/C:\/Users\/Administrator\/.m2\/repository\/com\/caucho\/hessian\/4.0.7\/hessian-4.0.7.jar&lt;com.caucho.services.client(ServiceProxyFactory.class[ServiceProxyFactory" modifiers="1537" timestamp="1450405076383"/>
+<typeInfo handle="=dubbo-rpc-api/src\/main\/java&lt;com.alibaba.dubbo.rpc{ProxyFactory.java[ProxyFactory" modifiers="513" timestamp="1414591956000"/>
+<typeInfo handle="=dubbo/C:\/Program Files \(x86)\/Java\/jdk1.7.0_79\/jre\/lib\/rt.jar&lt;java.util(ServiceLoader.class[ServiceLoader" modifiers="49" timestamp="1448871937541"/>
+<typeInfo handle="=dubbo-common/src\/main\/java&lt;com.alibaba.dubbo.common.extension{ExtensionLoader.java[ExtensionLoader" modifiers="1" timestamp="1414591956000"/>
+</typeInfoHistroy>
